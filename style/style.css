@@ -126,7 +126,7 @@ html, body{
 /*-------------------------- MAIN -----------------------------*/
 
 .be-aware {
-    background-image: url(../img/BG.png);
+    background-image: url(../img/BG.svg);
     background-size: cover;
 }
 .be-aware__container {
