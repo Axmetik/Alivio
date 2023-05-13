@@ -1,1 +1,1 @@
-Check this site at https://axmetik.github.io/Homework1/
+Check this site on https://axmetik.github.io/Homework1/
